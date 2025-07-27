@@ -86,7 +86,7 @@ The interactive Power BI dashboard includes:
 - 🌍 Geographic distribution of pickup locations
 - 🎛️ Slicers for time filters and peak periods
 
-📁 Download `.pbix` file → [PowerBI_Dashboard.pbix]([./PowerBI_Dashboard.pbix](https://raw.githubusercontent.com/emerick149/cyizere-siborurema-elie-power-BI-/refs/heads/main/power%20BI%20files/powerBI%20dashboard.pbix))
+📁 Download `.pbix` file → [PowerBI_Dashboard.pbix](https://github.com/emerick149/cyizere-siborurema-elie-power-BI-/raw/refs/heads/main/power%20BI%20files/powerBI%20dashboard.pbix)
 
 ---
 
